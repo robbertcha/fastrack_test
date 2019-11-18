@@ -110,7 +110,11 @@ footer ul#social_media > li > a {
       }
 
       #intro_cont .content_box, #intro_cont .content_img img {
-            width: 100%;max-width: 100%;height: auto;;
+            width: 96%;max-width: 96%;height: auto;;
+      }
+
+      #copyright, footer ul#social_media{
+            margin: 0px 10px;
       }
 }
 
